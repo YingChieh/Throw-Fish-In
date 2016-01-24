@@ -1,0 +1,34 @@
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\WindowsGame_Level3_ver1.exe
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\WindowsGame_Level3_ver1.pdb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\obj\x86\Debug\WindowsGame_Level3_ver1.exe
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\obj\x86\Debug\WindowsGame_Level3_ver1.pdb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\back.xnb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\bm.xnb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\fish1.xnb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\fish4.xnb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\glassss.xnb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\lose.xnb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\W.xnb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\win.xnb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\Courier New.xnb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\fish2.xnb
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\fish8.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\back.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\bm.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\fish1.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\fish4.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\glassss.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\lose.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\W.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\win.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\fish2.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\fish8.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\WindowsGame_Level3_ver1.exe
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\bin\x86\Debug\WindowsGame_Level3_ver1.pdb
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\obj\x86\Debug\WindowsGame_Level3_ver1.exe
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\obj\x86\Debug\WindowsGame_Level3_ver1.pdb

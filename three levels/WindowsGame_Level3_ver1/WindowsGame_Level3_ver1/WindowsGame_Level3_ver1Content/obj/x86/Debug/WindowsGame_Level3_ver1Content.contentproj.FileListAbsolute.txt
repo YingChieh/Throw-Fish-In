@@ -1,0 +1,2 @@
+c:\users\scu\documents\visual studio 2010\Projects\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\scu\Desktop\金魚三關卡\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1\WindowsGame_Level3_ver1Content\obj\x86\Debug\ResolveAssemblyReference.cache
